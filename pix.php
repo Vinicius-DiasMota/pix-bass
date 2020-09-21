@@ -29,35 +29,35 @@ Template Name: PIX
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="https://bpp.com.br/wp-content/themes/site-bpp/assets/corp/css/main.css">
-    <!-- <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/css/custom.css"> -->
+    <!-- <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri();  ?>/assets/pix/css/custom.css"> -->
     <link rel="stylesheet" href="assets/pix/css/custom.css">
    
 
     <style>
         @font-face {
             font-family: Uni-Sans; 
-            src: url(<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/fonts/uni_sans_bold-webfont.woff2) format("woff2"), url(<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/fonts/uni_sans_bold-webfont.woff) format("woff");
+            src: url(<?php echo get_stylesheet_directory_uri();  ?>/assets/pix/fonts/uni_sans_bold-webfont.woff2) format("woff2"), url(<?php echo get_stylesheet_directory_uri();  ?>/assets/pix/fonts/uni_sans_bold-webfont.woff) format("woff");
             font-weight: 900;
             font-style: normal
         }
         
         @font-face {
             font-family: Uni-Sans;
-            src: url(<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/fonts/uni_sans_thin-webfont.woff2) format("woff2"), url(<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/fonts/uni_sans_thin-webfont.woff) format("woff");
+            src: url(<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/fonts/uni_sans_thin-webfont.woff2) format("woff2"), url(<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/fonts/uni_sans_thin-webfont.woff) format("woff");
             font-weight: 300;
             font-style: normal
         }
         
         @font-face {
             font-family: Uni-Sans;
-            src: url(<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/fonts/uni_sans_regular-webfont.woff2) format("woff2"), url(<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/fonts/uni_sans_regular-webfont.woff) format("woff");
+            src: url(<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/fonts/uni_sans_regular-webfont.woff2) format("woff2"), url(<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/fonts/uni_sans_regular-webfont.woff) format("woff");
             font-weight: 500;
             font-style: normal
         }
         
         @font-face {
             font-family: Uni-Sans;
-            src: url(<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/fonts/uni_sans_semi_bold-webfont.woff2) format("woff2"), url(<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/fonts/uni_sans_semi_bold-webfont.woff) format("woff");
+            src: url(<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/fonts/uni_sans_semi_bold-webfont.woff2) format("woff2"), url(<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/fonts/uni_sans_semi_bold-webfont.woff) format("woff");
             font-weight: 700;
             font-style: normal
         }
@@ -82,7 +82,7 @@ Template Name: PIX
     <nav id="menu-mae">
         <div class="container d-flex justify-content-between align-items-center py-3">
             <a class="navbar-brand" href="">
-                <img src="<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/logo.svg" alt="">
+                <img src="<?php echo get_stylesheet_directory_uri();  ?>/assets/pix/logo.svg" alt="">
             </a>
             <div class="d-flex align-items-center">
                 <div class="nav-item d-none d-lg-block pr-lg-3">
@@ -120,42 +120,42 @@ Template Name: PIX
                     </div>
 
                     <div class="col-12 col-md-6 flex-column align-items-center align-items-md-start pb-4 pt-5 w-100 w-md-50 text-center text-lg-left">
-                        <img src="<?php echo get_stylesheet_directory_uri(); './img'  ?>/assets/pix/ultra-rapido_.svg" alt="" class="mx-auto mx-lg-0">
+                        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/pix/ultra-rapido_.svg" alt="" class="mx-auto mx-lg-0">
                         <h4 class="py-3 w-100"> Ultra rápido </h4>
                         <p>Pagamentos instantâneos onde quem paga e recebe tem a informação em real time.</p>
                     </div>
                     <div class="col-12 col-md-6 flex-column align-items-center align-items-md-start py-4 pt-5 w-100 w-md-50 text-center text-lg-left">
-                        <img src="<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/revolucionarios_.svg" alt="" class="mx-auto mx-lg-0">
+                        <img src="<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/revolucionarios_.svg" alt="" class="mx-auto mx-lg-0">
                         <h4 class="py-3 w-100"> Revolucionário </h4>
                         <p>Imagine o efeito da QR Code Economy. É isso que o PIX pode fazer em seus negócios.</p>
                     </div>
                     <div class="col-12 col-md-6 flex-column align-items-center align-items-md-start py-4 pt-5 pt-md-3 w-100 w-md-50 text-center text-lg-left">
-                        <img src="<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/economico_.svg" alt="" class="mx-auto mx-lg-0">
+                        <img src="<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/economico_.svg" alt="" class="mx-auto mx-lg-0">
                         <h4 class="py-3 w-100"> Econômico </h4>
                         <p>Operações 80% mais baratas que a TED</p>
                     </div>
                     <div class="col-12 col-md-6 flex-column align-items-center align-items-md-start py-4 pt-5 pt-md-3 w-100 w-md-50 text-center text-lg-left">
-                        <img src="<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/agil_.svg" alt="" class="mx-auto mx-lg-0">
+                        <img src="<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/agil_.svg" alt="" class="mx-auto mx-lg-0">
                         <h4 class="py-3 w-100"> Ágil </h4>
                         <p>Recurso disponíveis imediatamente na conta do recebedor</p>
                     </div>
                     <div class="col-12 col-md-6 flex-column align-items-center align-items-md-start py-4 pt-5 pt-md-3 w-100 w-md-50 text-center text-lg-left">
-                        <img src="<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/seguro_.svg" alt="" class="mx-auto mx-lg-0">
+                        <img src="<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/seguro_.svg" alt="" class="mx-auto mx-lg-0">
                         <h4 class="py-3 w-100"> Seguro </h4>
                         <p>Ambiente de segurança similar ao SPB (Sistema de Pagamentos Brasileiro)</p>
                     </div>
                     <div class="col-12 col-md-6 flex-column align-items-center align-items-md-start py-4 pt-5 pt-md-3 w-100 w-md-50 text-center text-lg-left">
-                        <img src="<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/rastreavel_.svg" alt="" class="mx-auto mx-lg-0">
+                        <img src="<?php echo get_stylesheet_directory_uri();  ?>/assets/pix/rastreavel_.svg" alt="" class="mx-auto mx-lg-0">
                         <h4 class="py-3 w-100"> Rastreável </h4>
                         <p>A transação pode conter informações agregadas que auxiliam na conciliação e no cruzamento de informações com ERPs e CRMs</p>
                     </div>
                     <div class="col-12 col-md-6 flex-column align-items-center align-items-md-start py-4 pt-5 pt-md-3 w-100 w-md-50 text-center text-lg-left">
-                        <img src="<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/integracao_.svg" alt="" class="mx-auto mx-lg-0">
+                        <img src="<?php echo get_stylesheet_directory_uri();  ?>/assets/pix/integracao_.svg" alt="" class="mx-auto mx-lg-0">
                         <h4 class="py-3 w-100"> Integração simples </h4>
                         <p>API já homologada e de fácil integração com seus sistemas</p>
                     </div>
                     <div class="col-12 col-md-6 flex-column align-items-center align-items-md-start py-4 pt-5 pt-md-3 w-100 w-md-50 text-center text-lg-left">
-                        <img src="<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/sem-intermediarios_.svg" alt="" class="mx-auto mx-lg-0">
+                        <img src="<?php echo get_stylesheet_directory_uri();  ?>/assets/pix/sem-intermediarios_.svg" alt="" class="mx-auto mx-lg-0">
                         <h4 class="py-3 w-100"> Comunicação P2P </h4>
                         <p>Da conta do pagador direto para a do recebedor</p>
                     </div>
@@ -236,7 +236,7 @@ Template Name: PIX
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
     <script src="https://bpp.com.br/wp-content/themes/site-bpp/assets/corp/vendor/jquery-key-restrictions.min.js"></script>
     <!-- <script src="https://bpp.com.br/wp-content/themes/site-bpp/assets/promo/js/form.js"></script> -->
-    <script src="<?php echo get_stylesheet_directory_uri(); './'  ?>/assets/pix/js/form.js"></script>
+    <script src="<?php echo get_stylesheet_directory_uri();  ?>/assets/pix/js/form.js"></script>
     <script src="https://bpp.com.br/wp-content/themes/site-bpp/assets/corp/js/main.js"></script>
     <script type ='text/javascript' src="https://d335luupugsy2.cloudfront.net/js/integration/stable/rd-js-integration.min.js"></script>
     <script>
