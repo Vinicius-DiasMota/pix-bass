@@ -15,7 +15,7 @@ Template Name: PIX
     <link rel="icon" href="https://bpp.com.br/wp-content/uploads/2018/06/cropped-favicon-1-32x32.png" sizes="32x32">
     <link rel="icon" href="https://bpp.com.br/wp-content/uploads/2018/06/cropped-favicon-1-192x192.png" sizes="192x192">
     <link rel="apple-touch-icon-precomposed" href="https://bpp.com.br/wp-content/uploads/2018/06/cropped-favicon-1-180x180.png">
-    <title>BPP. A primeira em PIX</title>
+    <title>BPP | A primeira em Pix</title>
 
     <meta name="description" content="Seja você também o primeiro.
     Implemente a API da BPP para pagamentos instantâneos. 100% digital e super seguro.
@@ -100,11 +100,11 @@ Template Name: PIX
     <section id="header-corp">
         <div class="container">
             <div class="row flex-column align-items-start pt-3">
-                <h1 class="w-100 c-white">BPP. A primeira em PIX.</h1>
+                <h1 class="w-100 c-white">BPP. A primeira em Pix.</h1>
                 <div class="col-12 col-lg-5 pb-0">
                     <p class="text-center text-md-right c-white mb-3 pb-0">
                         Seja você também o primeiro.<br class="d-none d-lg-block">
-                        Implemente a API da BPP<br class="d-none d-lg-block"> para pagamentos instantâneos.<br class="d-none d-lg-block"> 100% digital e super seguro.<br class="d-none d-lg-block"> Muito mais econômico, com<br class="d-none d-lg-block"> menos fricção e mais dados.<br class="d-none d-lg-block"> Mais inteligência para seu negócio.<br class="d-none d-lg-block"> Saia na frente com a API PIX da BPP. 
+                        Implemente a API da BPP<br class="d-none d-lg-block"> para pagamentos instantâneos.<br class="d-none d-lg-block"> 100% digital e super seguro.<br class="d-none d-lg-block"> Muito mais econômico, com<br class="d-none d-lg-block"> menos fricção e mais dados.<br class="d-none d-lg-block"> Mais inteligência para seu negócio.<br class="d-none d-lg-block"> Saia na frente com a API Pix da BPP. 
                 </div>
             </div>
         </div>
@@ -115,8 +115,8 @@ Template Name: PIX
             <div class="row">
                 <div class="d-flex flex-wrap col-12 col-lg-6 order-1 order-lg-1 pt-5 pt-lg-0 text-center text-lg-left">
                     <div class="topo">
-                        <p class="c-blue">A BPP é a primeira a desenvolver uma API do PIX para fintechs, provedores de soluções financeiras e grandes varejistas. Empresas que pensam à frente do mercado e precisam de um sistema de pagamento veloz, confiável, sem fricção e com foco no cliente, com informações do comprador para uso em BI.</p>
-                        <h5>Nada se compara à solução PIX da BPP:</h5>
+                        <p class="c-blue">A BPP é a primeira a desenvolver uma API do Pix para fintechs, provedores de soluções financeiras e grandes varejistas. Empresas que pensam à frente do mercado e precisam de um sistema de pagamento veloz, confiável, sem fricção e com foco no cliente, com informações do comprador para uso em BI.</p>
+                        <h5>Nada se compara à solução Pix da BPP:</h5>
                     </div>
 
                     <div class="col-12 col-md-6 flex-column align-items-center align-items-md-start pb-4 pt-5 w-100 w-md-50 text-center text-lg-left">
@@ -127,7 +127,7 @@ Template Name: PIX
                     <div class="col-12 col-md-6 flex-column align-items-center align-items-md-start py-4 pt-5 w-100 w-md-50 text-center text-lg-left">
                         <img src="<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/revolucionarios_.svg" alt="" class="mx-auto mx-lg-0">
                         <h4 class="py-3 w-100"> Revolucionário </h4>
-                        <p>Imagine o efeito da QR Code Economy. É isso que o PIX pode fazer em seus negócios.</p>
+                        <p>Imagine o efeito da QR Code Economy. É isso que o Pix pode fazer em seus negócios.</p>
                     </div>
                     <div class="col-12 col-md-6 flex-column align-items-center align-items-md-start py-4 pt-5 pt-md-3 w-100 w-md-50 text-center text-lg-left">
                         <img src="<?php echo get_stylesheet_directory_uri();   ?>/assets/pix/economico_.svg" alt="" class="mx-auto mx-lg-0">
@@ -174,12 +174,12 @@ Template Name: PIX
                 </div>
 
                 <div class="col-12 col-lg-6 order-3 order-lg-2 box-content-form">
-                    <h2>O PIX representa a abertura de novas possibilidades para os negócios.</h2>
+                    <h2>O Pix representa a abertura de novas possibilidades para os negócios.</h2>
                     <p class="subtitle c-blue">
                         Coloque sua organização à frente da QR Code Economy e da maior revolução em meios de pagamentos dos últimos 100 anos.
                     </p>
                     <div class="box-form pt-lg-5 px-lg-5 pb-lg-3">
-                        <h3 class="pt-5 pt-lg-0 c-dark-blue text-center pb-1">Implemente já o PIX.<br class="d-block d-md-none"> O futuro do pagamento.</h3>
+                        <h3 class="pt-5 pt-lg-0 c-dark-blue text-center pb-1">Implemente já o Pix.<br class="d-block d-md-none"> O futuro do pagamento.</h3>
                         <h5 class="text-center c-grey pb-3">Preencha o formulário abaixo que<br class="d-block d-md-none"> entraremos em contato</h5>
                         <form id="contato-form-m" action="/pix-obrigado">
                             <div class="form-group">

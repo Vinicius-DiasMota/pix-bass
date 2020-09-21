@@ -167,6 +167,7 @@
   }
 
   .section__301-title {
+    font-family: "Uni-Sans", Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
@@ -176,6 +177,7 @@
   }
 
   .section__301-subtitle {
+    font-family: "Uni-Sans", Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 32px;
@@ -184,6 +186,7 @@
   }
 
   .section__301-info {
+    font-family: "Uni-Sans", Arial, Helvetica, sans-serif;
     font-weight: bold!important;
     font-size: 32px!important;
     line-height: 48px!important;
@@ -192,6 +195,7 @@
   }
 
   .section__301-text {
+    font-family: "Uni-Sans", Arial, Helvetica, sans-serif;
     color: #F8F8F8!important;
     line-height: 24px!important;
     text-align: left;
@@ -205,6 +209,7 @@
     border: none;
     border-radius: 10px;
     background-color: #26A6FF;
+    font-family: "Uni-Sans", Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
